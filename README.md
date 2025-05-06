@@ -15,9 +15,9 @@
 
 ## 技能展示
 
-- **编程语言**: Python, Java, JavaScript
-- **开发框架**: Spring Boot, Django, React
-- **工具**: Git, Docker, Jenkins
+- **编程语言**: PHP, Java, JavaScript, TypeScript
+- **开发框架**: Spring Boot, Vue, Webman
+- **工具**: Git, Docker, Jmeter
 
 ## 关于我
 
